@@ -1,0 +1,33 @@
+{
+  "data": [
+    {
+      "title": "بیوتی ",
+      "name": "beauty",
+      "description": " برای مراقبت پوست ",
+      "id": 1,
+      "image": "./images/categories/beauty_cat.png"
+    },
+    {
+      "title": "کامپیوتر ",
+      "name": "computer",
+      "description": "لوازم کامپیوتری ",
+      "id": 2,
+      "image": "./images/categories/computer_cat.png"
+    },
+    {
+      "title": "پوشاک ",
+      "name": "clothes",
+      "description": "انواع پوشاک و اکسوری های آن",
+      "id": 3,
+      "image": "./images/categories/clothes_cat.png"
+    },
+    {
+      "title": "لوازم آشپزخانه ",
+      "name": "kitchen",
+      "description": "انواع لوازم آشپزخوانه و متعلقات آن",
+      "id": 4,
+      "image": "./images/categories/kitchen_cat.png"
+    }
+  ],
+  "status": 200
+}

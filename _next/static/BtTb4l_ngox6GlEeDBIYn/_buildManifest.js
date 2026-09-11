@@ -6,11 +6,11 @@ self.__BUILD_MANIFEST = {
         "destination": "/shopHost/shopHost/js/:path*"
       },
       {
-        "source": "/shopHost/product/:path*/images/:path*",
+        "source": "/shopHost/shopHost/product/:path*/images/:path*",
         "destination": "/shopHost/shopHost/images/:path*"
       },
       {
-        "source": "/shopHost/product/_next/data/:path*"
+        "source": "/shopHost/shopHost/product/_next/data/:path*"
       },
       {
         "source": "/shopHost/shopHost/product/_next/:path*"

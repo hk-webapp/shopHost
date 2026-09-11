@@ -26,6 +26,10 @@ self.__BUILD_MANIFEST = {
       },
       {
         "source": "/checkout/:path*"
+      },
+      {
+        "source": "/_next/:path*",
+        "destination": "/_next/:path*"
       }
     ],
     "beforeFiles": [],

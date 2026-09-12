@@ -1,3 +1,3 @@
 :HL["/shopHost/product/_next/static/chunks/18ldhcpw7nqnd.css","style"]
 :HL["./js/flowbite.min.css","style"]
-0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}},"staleTime":300,"buildId":"Dj_8_YHyROqh1y1k3dQi8"}
+0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}},"staleTime":300,"buildId":"OA9bkhZj-EtGyu7sBXYSg"}

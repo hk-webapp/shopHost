@@ -26,14 +26,6 @@ self.__BUILD_MANIFEST = {
       },
       {
         "source": "/shopHost/shopHost/checkout/:path*"
-      },
-      {
-        "source": "/shopHost/_next/data/:path*",
-        "destination": "/shopHost/shopHost/_next/data/:path*"
-      },
-      {
-        "source": "/shopHost/_next/:path*",
-        "destination": "/shopHost/shopHost/_next/:path*"
       }
     ],
     "beforeFiles": [

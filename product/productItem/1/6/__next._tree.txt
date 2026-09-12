@@ -1,3 +1,3 @@
-:HL["/product/_next/static/chunks/18ldhcpw7nqnd.css","style"]
+:HL["/shopHost/product/_next/static/chunks/18ldhcpw7nqnd.css","style"]
 :HL["./js/flowbite.min.css","style"]
-0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"productItem","param":null,"prefetchHints":4192,"slots":{"children":{"name":"categoryProduct","param":{"type":"d","key":"1","siblings":[]},"prefetchHints":4192,"slots":{"children":{"name":"productId","param":{"type":"d","key":"6","siblings":[]},"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}}}}}},"staleTime":300,"buildId":"BW6vn7DJ7iS-ucx_Uc7hr"}
+0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"productItem","param":null,"prefetchHints":4192,"slots":{"children":{"name":"categoryProduct","param":{"type":"d","key":"1","siblings":[]},"prefetchHints":4192,"slots":{"children":{"name":"productId","param":{"type":"d","key":"6","siblings":[]},"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}}}}}},"staleTime":300,"buildId":"c4yJmg-MW6Ihqb0ZJ3kz1"}

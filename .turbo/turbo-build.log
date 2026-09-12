@@ -1,0 +1,81 @@
+[6n[?25l[m]0;C:\Program Files\nodejs\node.exe[?25h[?25l]0;npm[?25h[?25l[93X[93C
+[93X[93C
+[93X[93C
+[93X[93C
+[93X[93C
+[93X[93C
+[93X[93C
+[93X[93C
+[93X[93C
+[93X[93C
+[93X[93C
+[93X[93C
+[93X[93C
+[93X[93C
+[93X[93C
+[93X[93C
+[93X[93C
+[93X[93C
+[93X[93C[H[?25h[?25l]0;npm run build[?25h[?25l
+> host@0.1.0 build
+> next build      [5;1H[?25h[?25l[H[93X[93C
+> host@0.1.0 build[75X[75C
+> next build[81X[81C
+[93X[93C
+[93X[93C
+[93X[93C
+[93X[93C
+[93X[93C
+[93X[93C
+[93X[93C
+[93X[93C
+[93X[93C
+[93X[93C
+[93X[93C
+[93X[93C
+[93X[93C
+[93X[93C
+[93X[93C
+[93X[93C[5;1H[?25h[?25l[H[93X[93C
+> host@0.1.0 build[75X[75C
+> next build[81X[81C
+[93X[93C
+[93X[93C
+[93X[93C
+[93X[93C
+[93X[93C
+[93X[93C
+[93X[93C
+[93X[93C
+[93X[93C
+[93X[93C
+[93X[93C
+[93X[93C
+[93X[93C
+[93X[93C
+[93X[93C
+[93X[93C[5;1H[?25h[?25l]0;C:\Windows\system32\cmd.exe [?25h[?25l]0;next-build (v16.3.4)[?25h[?25l[1m[38;2;173;127;168m▲ Next.js 16.3.4[m (Turbopack)
+[?25h[?25l- Environments: .env.local
+[?25h[?25l[1m[93m⚠[m Specified "rewrites" will not automatically work with "output: export". See more info here:
+ https://nextjs.org/docs/messages/export-no-custom-routes[36X[36C
+[?25h[?25l[1m[92m✓[m Running next.config.ts took 3.9s
+[?25h[?25l
+[?25h[?25l[1m[97m [m Creating an optimized production build ...
+[?25h[?25l[1m[93m⚠[m Specified "rewrites" will not automatically work with "output: export". See more info here:
+ https://nextjs.org/docs/messages/export-no-custom-routes[36X[36C
+[?25h[?25l[1m[92m✓[m Compiled successfully in 79s
+[?25h[?25l[1m[97m [m Running TypeScript  [36m.[?25h[?25l[m[93X[93C[?25h[?25l[1m[97m [m Running TypeScript  [36m..[?25h[?25l[m[93X[93C[?25h[?25l[1m[97m [m Running TypeScript  [36m...[?25h[?25l[m[93X[93C[?25h[?25l[1m[97m [m Running TypeScript  [36m.[?25h[?25l[m[93X[93C[?25h[?25l[1m[97m [m Running TypeScript  [36m..[?25h[?25l[m[93X[93C[?25h[?25l[?25h[?25l[1m[97m [m Running TypeScript  [36m...[?25h[?25l[m[93X[93C[?25h[?25l[1m[97m [m Running TypeScript  [36m.[?25h[?25l[m[93X[93C[?25h[?25l[1m[97m [m Running TypeScript  [36m..[?25h[?25l[m[93X[93C[?25h[?25l[1m[97m [m Running TypeScript  [36m...[?25h[?25l[m[93X[93C[?25h[?25l[1m[97m [m Running TypeScript  [36m.[?25h[?25l[m[93X[93C[?25h[?25l[1m[97m [m Running TypeScript  [36m..[?25h[?25l[m[93X[93C[?25h[?25l[1m[97m [m Running TypeScript  [36m...[?25h[?25l[m[93X[93C[?25h[?25l[1m[97m [m Running TypeScript  [36m.[?25h[?25l[m[93X[93C[?25h[?25l[1m[97m [m Running TypeScript  [36m..[?25h[?25l[m[93X[93C[?25h[?25l[1m[97m [m Running TypeScript  [36m...[?25h[?25l[m[93X[93C[?25h[?25l[1m[97m [m Running TypeScript  [36m.[?25h[?25l[m[93X[93C[?25h[?25l[1m[97m [m Running TypeScript  [36m..[?25h[?25l[m[93X[93C[?25h[?25l[1m[97m [m Running TypeScript  [36m...[?25h[?25l[m[93X[93C[?25h[?25l[1m[97m [m Running TypeScript  [36m.[?25h[?25l[m[93X[93C[?25h[?25l[1m[97m [m Running TypeScript  [36m..[?25h[?25l[m[93X[93C[?25h[?25l[1m[97m [m Running TypeScript  [36m...[?25h[?25l[m[93X[93C[?25h[?25l[1m[97m [m Running TypeScript  [36m.[?25h[?25l[m[93X[93C[?25h[?25l[1m[97m [m Running TypeScript  [36m..[?25h[?25l[m[93X[93C[?25h[?25l[1m[97m [m Running TypeScript  [36m...[?25h[?25l[m[93X[93C[?25h[?25l[1m[97m [m Running TypeScript  [36m.[?25h[?25l[m[93X[93C[?25h[?25l[1m[97m [m Running TypeScript  [36m..[?25h[?25l[m[93X[93C[?25h[?25l[1m[97m [m Running TypeScript  [36m...[?25h[?25l[m[93X[93C[?25h[?25l[1m[97m [m Running TypeScript  [36m.[?25h[?25l[m[93X[93C[?25h[?25l[1m[97m [m Running TypeScript  [36m..[?25h[?25l[m[93X[93C[?25h[?25l[?25h[?25l[1m[97m [m Running TypeScript  [36m...[?25h[m[?25l[93X[93C[?25h[?25l[1m[97m [m Running TypeScript  [36m.[?25h[?25l[m[93X[93C[?25h[?25l[1m[97m [m Running TypeScript  [36m..[?25h[?25l[m[93X[93C[?25h[?25l[1m[97m [m Running TypeScript  [36m...[?25h[?25l[m[93X[93C[?25h[?25l[1m[97m [m Running TypeScript  [36m.[?25h[?25l[m[93X[93C[?25h[?25l[1m[97m [m Running TypeScript  [36m..[?25h[?25l[m[93X[93C[?25h[?25l[1m[97m [m Running TypeScript  [36m...[?25h[?25l[m[93X[93C[?25h[?25l[1m[97m [m Running TypeScript  [36m.[?25h[?25l[m[93X[93C[?25h[?25l[1m[97m [m Running TypeScript  [36m..[?25h[?25l[m[93X[93C[?25h[?25l[1m[97m [m Running TypeScript  [36m...[?25h[?25l[m[93X[93C[?25h[?25l[1m[97m [m Running TypeScript  [36m.[?25h[?25l[m[93X[93C[?25h[?25l[1m[97m [m Running TypeScript  [36m..[?25h[?25l[m[93X[93C[?25h[?25l[1m[97m [m Running TypeScript  [36m...[?25h[?25l[m[93X[93C[?25h[?25l[1m[97m [m Running TypeScript  [36m.[?25h[?25l[m[93X[93C[?25h[?25l[1m[97m [m Running TypeScript  [36m..[?25h[?25l[m[93X[93C[?25h[?25l[1m[97m [m Running TypeScript  [36m...[?25h[?25l[m[93X[93C[?25h[?25l[1m[97m [m Running TypeScript  [36m.[?25h[?25l[m[93X[93C[?25h[?25l[1m[97m [m Running TypeScript  [36m..[?25h[?25l[m[93X[93C[?25h[?25l[1m[97m [m Running TypeScript  [36m...[?25h[?25l[m[93X[93C[?25h[?25l[1m[97m [m Running TypeScript  [36m.[?25h[?25l[m[93X[93C[?25h[?25l[1m[97m [m Running TypeScript  [36m..[?25h[?25l[m[93X[93C[?25h[?25l[1m[97m [m Running TypeScript  [36m...[?25h[?25l[m[93X[93C[?25h[?25l[1m[97m [m Running TypeScript  [36m.[?25h[?25l[m[93X[93C[?25h[?25l[?25h[?25l[1m[97m [m Running TypeScript  [36m..[?25h[m[?25l[1m[97m [m Finished TypeScript in 10.7s  [36m.[m[60X[60C[?25h[?25l[1m[92m✓[m Finished TypeScript in 10.7s[63X[63C
+[?25h[?25l[?25h[?25l[1m[97m [m Collecting page data using 5 workers  [36m.[?25h[m[?25l[93X[93C[?25h[?25l[1m[97m [m Collecting page data using 5 workers  [36m..[?25h[?25l[m[93X[93C[?25h[?25l[1m[97m [m Collecting page data using 5 workers  [36m...[?25h[?25l[m[93X[93C[?25h[?25l[1m[97m [m Collecting page data using 5 workers  [36m.[?25h[?25l[m[93X[93C[?25h[?25l[1m[97m [m Collecting page data using 5 workers  [36m..[?25h[?25l[m[93X[93C[?25h[?25l[?25h[?25l[1m[97m [m Collecting page data using 5 workers  [36m...[?25h[m[?25l[93X[93C[?25h[?25l[1m[97m [m Collecting page data using 5 workers  [36m.[?25h[?25l[m[93X[93C[?25h[?25l[1m[97m [m Collecting page data using 5 workers  [36m..[?25h[?25l[m[93X[93C[?25h[?25l[1m[97m [m Collecting page data using 5 workers  [36m...[?25h[?25l[m[93X[93C[?25h[?25l[1m[97m [m Collecting page data using 5 workers  [36m.[?25h[?25l[m[93X[93C[?25h[?25l[1m[97m [m Collecting page data using 5 workers  [36m..[?25h[?25l[m[93X[93C[?25h[?25l[1m[97m [m Collecting page data using 5 workers  [36m...[?25h[?25l[m[93X[93C[?25h[?25l[1m[97m [m Collecting page data using 5 workers  [36m.[?25h[?25l[m[93X[93C[?25h[?25l[1m[97m [m Collecting page data using 5 workers  [36m..[?25h[?25l[m[93X[93C[?25h[?25l[1m[97m [m Collecting page data using 5 workers  [36m...[?25h[?25l[m[93X[93C[?25h[?25l[1m[97m [m Collecting page data using 5 workers  [36m.[?25h[?25l[m[93X[93C[?25h[?25l[?25h[?25l[1m[97m [m Collecting page data using 5 workers  [36m..[?25h[?25l[m[93X[93C[?25h[?25l[1m[97m [m Collecting page data using 5 workers  [36m...[?25h[?25l[m[93X[93C[?25h[?25l[1m[97m [m Collecting page data using 5 workers  [36m.[?25h[?25l[m[93X[93C[?25h[?25l[1m[97m [m Collecting page data using 5 workers  [36m..[?25h[?25l[m[93X[93C[?25h[?25l[1m[97m [m Collecting page data using 5 workers  [36m...[?25h[?25l[m[93X[93C[?25h[?25l[1m[97m [m Collecting page data using 5 workers  [36m.[?25h[?25l[m[93X[93C[?25h[?25l[1m[97m [m Collecting page data using 5 workers  [36m..[?25h[?25l[m[93X[93C[?25h[?25l[1m[92m✓[m Collecting page data using 5 workers in 4.8s    
+[?25h[?25l[?25h[?25l[1m[97m [m Generating static pages using 5 workers (0/4)  [36m[    ][?25h[?25l[m[93X[93C[?25h[?25l[1m[97m [m Generating static pages using 5 workers (0/4)  [36m[=   ][?25h[?25l[m[93X[93C[?25h[?25l[1m[97m [m Generating static pages using 5 workers (0/4)  [36m[==  ][?25h[?25l[m[93X[93C[?25h[?25l[1m[97m [m Generating static pages using 5 workers (0/4)  [36m[=== ][?25h[?25l[m[93X[93C[?25h[?25l[1m[97m [m Generating static pages using 5 workers (0/4)  [36m[ ===][?25h[?25l[m[93X[93C[?25h[?25l[1m[97m [m Generating static pages using 5 workers (0/4)  [36m[  ==][?25h[?25l[m[93X[93C[?25h[?25l[1m[97m [m Generating static pages using 5 workers (0/4)  [36m[   =][?25h[?25l[m[93X[93C[?25h[?25l[1m[97m [m Generating static pages using 5 workers (0/4)  [36m[    ][?25h[?25l[m[93X[93C[?25h[?25l[1m[97m [m Generating static pages using 5 workers (0/4)  [36m[   =][?25h[?25l[m[93X[93C[?25h[?25l[?25h[?25l[1m[97m [m Generating static pages using 5 workers (0/4)  [36m[  ==][?25h[m[?25l[93X[93C[?25h[?25l[1m[97m [m Generating static pages using 5 workers (0/4)  [36m[ ===][?25h[?25l[m[93X[93C[?25h[?25l[1m[92m✓[m Generating static pages using 5 workers (4/4) in 2.3s
+[?25h[?25l[?25h[?25l[1m[97m [m Finalizing page optimization  [36m.[?25h[?25l[m[93X[93C[?25h[?25l[1m[93m⚠[m rewrites, redirects, and headers are not applied when exporting your application, detected 
+(rewrites). See more info here: https://nextjs.org/docs/messages/export-no-custom-routes     [?25h[?25l
+ [36m.[m[91X[91C[?25h[?25l[93X[93C[?25h[?25l [36m..[m [?25h[?25l[93X[93C[?25h[?25l [36m...[m [?25h[?25l[93X[93C[?25h[?25l [36m.[m [?25h[?25l[93X[93C[?25h[?25l [36m..[m [?25h[?25l[93X[93C[?25h[?25l[?25h[?25l[1m[92m✓[m Finalizing page optimization in 939ms    [?25h[?25l
+[93X[93C[?25h[?25l
+[93X[93C[?25h[?25l[4mRoute (app)[?25h[?25l[24m
+┌ ○ /[88X[88C[?25h[?25l
+└ ○ /_not-found[78X[78C[?25h[?25l
+[93X[93C[?25h[?25l
+[93X[93C[?25h[?25l
+○  (Static)  prerendered as static content[51X[51C[?25h[?25l
+[93X[93C[?25h[?25l
+[93X[93C[?25h[?25l[?25h⠙[?25l[93X[93C[?25h
